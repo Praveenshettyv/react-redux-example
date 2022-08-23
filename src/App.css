@@ -1,0 +1,21 @@
+.App img{
+   width: 100px;
+   height: auto;
+}
+.main{
+  display: flex;
+}
+.main button{
+  width: 99px;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+.App{
+   align: 0 auto;
+   text-align: center;  
+   width: 800px;
+   background-color: #fff;
+   clear: both;
+   display: block;
+}
